@@ -1,0 +1,26 @@
+#wrapper{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.449);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+.on{
+    padding: 15px;
+    margin: 25px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.off{
+    padding: 15px;
+    margin: 25px;
+    cursor: pointer;
+    border-radius: 50px;
+}
